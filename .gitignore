@@ -1,0 +1,46 @@
+# 本地配置与密钥
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+.next/
+.nuxt/
+coverage/
+
+# 构建与运行结果
+build/
+dist/
+outputs/
+logs/
+*.log
+*.sqlite
+*.sqlite3
+
+# 数据、模型与缓存：共享样例放data/samples并核查内容
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
+/models/
+.cache/
+
+# 编辑器与操作系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
