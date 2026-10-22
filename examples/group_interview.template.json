@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "data_type": "empty_interview_template",
+  "source": "group_interview",
+  "stage": "early_project",
+  "group_id": "GXX",
+  "participant_id": "GXX-P01",
+  "interviewer_id": "GXX-P02",
+  "consents": {
+    "record_notes": false,
+    "record_audio": false,
+    "ai_assistance": false,
+    "public_release": false
+  },
+  "questions": [
+    {"question_id": "I01", "question": "最近一次使用AI完成的任务是什么？", "answer": null, "followups": []},
+    {"question_id": "I02", "question": "哪些步骤由你完成，怎样检查结果？", "answer": null, "followups": []},
+    {"question_id": "I03", "question": "讲一次出错或卡住的经历。", "answer": null, "followups": []},
+    {"question_id": "I04", "question": "哪些能力有所变化，有什么例子？", "answer": null, "followups": []},
+    {"question_id": "I05", "question": "项目学习怎样安排更合适？", "answer": null, "followups": []},
+    {"question_id": "I06", "question": "想解决什么文本问题，什么结果算有帮助？", "answer": null, "followups": []}
+  ],
+  "researcher_memo": null
+}

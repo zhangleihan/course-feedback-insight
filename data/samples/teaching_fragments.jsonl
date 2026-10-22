@@ -1,0 +1,24 @@
+{"unit_id": "E01", "question_id": "q3", "text": "先读少量反馈，了解材料，再考虑按问题类别整理。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E02", "question_id": "q3", "text": "先清理无效内容，再统计词语和常见问题。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E03", "question_id": "q3", "text": "希望把反馈交给模型，让它分类并报告频率。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E04", "question_id": "q3verify", "text": "需要回看原文，判断不满涉及作业数量、难度还是安排。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E05", "question_id": "q5", "text": "把零散课程笔记交给模型，帮助整理知识结构。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E06", "question_id": "q5", "text": "向模型描述编程需求，再通过多轮调试让程序运行。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E07", "question_id": "q7", "text": "模型的解题过程看起来合理，但核对后发现计算错误。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E08", "question_id": "q7", "text": "生成的引用很像正式文献，检索时却找不到对应来源。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E09", "question_id": "q6example", "text": "会对照课本和原始资料检查模型给出的事实。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E10", "question_id": "q6example", "text": "会把同一问题交给不同模型，比较结果的差异。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E11", "question_id": "q8example", "text": "处理资料和代码的效率提高了，但也感觉更依赖AI。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E12", "question_id": "q8example", "text": "逐渐学会把大任务拆成具体问题，并说明期望的输出。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E13", "question_id": "q10", "text": "希望工具协助收集和整理资料，最终内容由自己确认。", "data_type": "generalized_teaching_paraphrase", "question_variant": "desired_workflow"}
+{"unit_id": "E14", "question_id": "q10", "text": "设想一个整理课程材料、提炼重点并生成练习的流程。", "data_type": "generalized_teaching_paraphrase", "question_variant": "desired_workflow"}
+{"unit_id": "E15", "question_id": "q13", "text": "阅读长篇论文费时，难以区分背景、方法和主要发现。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E16", "question_id": "q13", "text": "希望从大量文档中找到与当前问题有关的内容并保留出处。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E17", "question_id": "q14", "text": "想做资料整理工具，生成有来源的笔记和重点条目。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E18", "question_id": "q14", "text": "希望工具根据自己的学习问题提供解释与纠错帮助。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E19", "question_id": "q16why", "text": "如果阶段目标清楚、遇到困难能得到指导，会更愿意投入。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E20", "question_id": "q16why", "text": "任务跨度太大、短时间工作量太多，会增加学习压力。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E21", "question_id": "q17", "text": "希望能够独立完成从文本整理到分析验证的一条完整流程。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E22", "question_id": "q17", "text": "希望了解智能体的结构，并做出能解决具体问题的工具。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E23", "question_id": "q18extra", "text": "编程和调试仍有困难，希望有起步示例及针对性指导。", "data_type": "generalized_teaching_paraphrase"}
+{"unit_id": "E24", "question_id": "q18extra", "text": "希望小组分工明确，也担心合作中的投入不均。", "data_type": "generalized_teaching_paraphrase"}

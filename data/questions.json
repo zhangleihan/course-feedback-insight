@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "note": "题目与可用应用定义对应；旧答卷可能缺少某字段，缺失不代表没有经历。",
+  "questions": [
+    {
+      "question_id": "q1",
+      "question": "在你看来，文本挖掘主要是在做什么？"
+    },
+    {
+      "question_id": "q2",
+      "question": "你怎样理解自然语言处理与大语言模型的关系？"
+    },
+    {
+      "question_id": "q3",
+      "question": "如果有几千条课程反馈，你会怎样开始分析？"
+    },
+    {
+      "question_id": "q4",
+      "question": "最近一个月，你使用大模型的情况怎样？"
+    },
+    {
+      "question_id": "q5",
+      "question": "回忆一次印象比较深的大模型使用经历。"
+    },
+    {
+      "question_id": "q6",
+      "question": "你怎么判断模型的结果“可以用了”？"
+    },
+    {
+      "question_id": "q7",
+      "question": "有没有一次AI结果让你失望，或看似正确却出了错？"
+    },
+    {
+      "question_id": "q8",
+      "question": "使用AI后，你觉得自己哪些方面发生了变化？"
+    },
+    {
+      "question_id": "q9",
+      "question": "你使用或构建过自己认为属于Agent的工具吗？"
+    },
+    {
+      "question_id": "q10",
+      "question": "介绍一个你使用或构建过的Agent。"
+    },
+    {
+      "question_id": "q11",
+      "question": "这些技术，你目前能做到什么程度？"
+    },
+    {
+      "question_id": "q12",
+      "question": "选一项做过的技术，介绍你实际完成过什么。"
+    },
+    {
+      "question_id": "q13",
+      "question": "有没有一类文字资料，让你觉得处理起来很费劲？"
+    },
+    {
+      "question_id": "q14",
+      "question": "如果做成一个小项目，你最希望它解决什么问题？"
+    },
+    {
+      "question_id": "q15",
+      "question": "这些课程项目，你最想尝试哪些？"
+    },
+    {
+      "question_id": "q16",
+      "question": "围绕一个项目持续学习课程，你预计会有什么感受？"
+    },
+    {
+      "question_id": "q16format",
+      "question": "哪种项目安排更适合你？"
+    },
+    {
+      "question_id": "q17",
+      "question": "课程结束时，你最希望自己能独立完成什么？"
+    },
+    {
+      "question_id": "q17support",
+      "question": "你最需要哪些学习支持？"
+    },
+    {
+      "question_id": "q18",
+      "question": "还有哪些学习条件、顾虑或期待想让教师知道？"
+    },
+    {
+      "question_id": "q3verify",
+      "question": "如果模型总结大家最不满意作业，你还想检查什么？"
+    },
+    {
+      "question_id": "q4tools",
+      "question": "主要使用哪些工具或产品？"
+    },
+    {
+      "question_id": "q6example",
+      "question": "具体如何检查？也可以说明没有检查的原因。"
+    },
+    {
+      "question_id": "q8example",
+      "question": "举一个最能说明变化的例子。"
+    },
+    {
+      "question_id": "q15why",
+      "question": "吸引你的是什么？最担心什么？已有数据或合作伙伴吗？"
+    },
+    {
+      "question_id": "q16why",
+      "question": "什么安排会让你愿意投入？什么安排可能适得其反？"
+    },
+    {
+      "question_id": "q18extra",
+      "question": "还有哪些条件或期待希望教师知道？"
+    }
+  ],
+  "variants": {
+    "q5": {
+      "usage_experience": "回忆一次印象比较深的大模型使用经历。",
+      "nonuse_reason": "你还没有使用大模型，主要是什么原因？"
+    },
+    "q10": {
+      "agent_experience": "介绍一个你使用或构建过的Agent。",
+      "desired_workflow": "如果工具能连续替你完成几步工作，你想让它做什么？"
+    }
+  }
+}
